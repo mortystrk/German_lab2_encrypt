@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Encrypt</string>
+    <string name="enter_text">Введите текст:</string>
+    <string name="encrypt">Encrypt!</string>
+</resources>
